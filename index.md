@@ -1,1 +1,8 @@
-##欢迎来到GitHub页面You can use the [editor on GitHub](https://github.com/apphxs/apphxs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.每当您提交到这个存储库时，GitHub页面将运行[Jekyll](https：//jekyllrb.com/)，从Markdown文件中的内容重新构建站点中的页面。##markdown是一种轻量级且易于使用的语法样式，用于编写您的书写。它包括公约n.```markdown语法突出显示代码块#报头1#标题2###标题3-项目-名单1.编号2.列单**Bold**和_意大利语和`Code‘文本[链接](网址)和！[图像](Src)n.```For more
+<form action="http://www.baidu.com/baidu" target="_blank">
+<div align="center"> 
+<input name=tn type=hidden value=baidu>
+<a href="http://www.baidu.com/"><img src="http://img.baidu.com/search/img/baidulogo_clarity_80_29.gif" alt="Baidu" align="bottom" border="0"></a>
+<input type=text name=word size=30>
+<input type="submit" value="百度搜索">
+</div>
+</form>
